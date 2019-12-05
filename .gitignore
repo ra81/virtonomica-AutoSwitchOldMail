@@ -4,5 +4,4 @@ bin/*
 obj/*
 out/*.ts
 out/*.map
-*.js
 *.map
